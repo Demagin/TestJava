@@ -1,0 +1,1 @@
+Создать файл index.html и script.js. Подключить js файл к html.
